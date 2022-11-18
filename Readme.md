@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="dark" title="#dark" src="https://github.com/alissonandrade2020/theme-switcher/1.JPG" width="1200px" />
-            <img alt="light" title="#light" src="https://github.com/alissonandrade2020/theme-switcher/2.JPG" width="1200px" />
+    <img alt="dark" title="#dark" src="https://github.com/alissonandrade2020/theme-switcher/blob/master/dark.JPG" width="1200px" />
+            <img alt="light" title="#light" src="https://github.com/alissonandrade2020/theme-switcher/blob/master/light.JPG" width="1200px" />
 </h1>
 
 ![Badge em Finish](http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=GREEN&style=for-the-badge)
